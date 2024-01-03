@@ -1,6 +1,6 @@
 # 51dayscodechallenge
 # Overview
-This repository documents my journey through the 21DaysOfCoding Challenge. I am continuing my 21days to 51dayscoding challenge which i updated from 3rd of January 2024 as part of the #DrGViswanathan initiative by VIT Bhopal University, this initiative allows us to share our small as well as greater milestones uniquely.
+This repository documents my journey through the 51DaysOfCoding Challenge. I am continuing my 21days to 51dayscoding challenge which i updated from 3rd of January 2024 as part of the #DrGViswanathan initiative by VIT Bhopal University, this initiative allows us to share our small as well as greater milestones uniquely.
 During this challenge, I committed to solving at least one coding problem each day for 51 days on Platforms like Geeks for Geeks and LeetCode, fostering a consistent coding routine. This challenge is the continuous of 21dayscodingchallenge.
 
 # Structure:
