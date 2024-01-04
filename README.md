@@ -39,3 +39,6 @@ Participating in the 51DaysOfCoding Challenge allowed me to maintain small yet e
 Day22: 
 * [https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/]
 * [https://www.geeksforgeeks.org/space-optimization-using-bit-manipulations/ ]
+Day23:
+* [https://www.geeksforgeeks.org/longest-subarray-sum-divisible-k/]
+* [https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/]
