@@ -46,5 +46,6 @@ Participating in the 51DaysOfCoding Challenge allowed me to maintain small yet e
 * [https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/]
 * [https://leetcode.com/problems/valid-palindrome/]
 > Day25:
-* [https://leetcode.com/problems/valid-parentheses/]
 * [https://leetcode.com/problems/valid-anagram/]
+* [https://leetcode.com/problems/valid-parentheses/]
+
