@@ -48,4 +48,6 @@ Participating in the 51DaysOfCoding Challenge allowed me to maintain small yet e
 > Day25:
 * [https://leetcode.com/problems/valid-anagram/]
 * [https://leetcode.com/problems/valid-parentheses/]
-
+> Day26:
+* [https://www.geeksforgeeks.org/problems/consecutive-elements2306/1]
+* []
