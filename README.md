@@ -51,3 +51,6 @@ Participating in the 51DaysOfCoding Challenge allowed me to maintain small yet e
 > Day26:
 * [https://www.geeksforgeeks.org/problems/consecutive-elements2306/1]
 * [https://leetcode.com/problems/longest-common-prefix/]
+> Day27:
+* [https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/]
+* [
