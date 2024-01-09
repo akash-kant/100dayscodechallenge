@@ -54,3 +54,6 @@ Participating in the 51DaysOfCoding Challenge allowed me to maintain small yet e
 > Day27:
 * [https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/]
 * [https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/]
+> Day28:
+* [https://leetcode.com/problems/longest-substring-without-repeating-characters/]
+* [https://leetcode.com/problems/longest-repeating-character-replacement/]
