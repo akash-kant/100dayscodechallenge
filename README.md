@@ -57,3 +57,6 @@ Participating in the 51DaysOfCoding Challenge allowed me to maintain small yet e
 > Day28:
 * [https://leetcode.com/problems/longest-substring-without-repeating-characters/]
 * [https://leetcode.com/problems/longest-repeating-character-replacement/]
+> Day29:
+* [https://leetcode.com/problems/group-anagrams/]
+* [https://leetcode.com/problems/longest-palindromic-substring/]
