@@ -60,3 +60,6 @@ Participating in the 51DaysOfCoding Challenge allowed me to maintain small yet e
 > Day29:
 * [https://leetcode.com/problems/group-anagrams/]
 * [https://leetcode.com/problems/longest-palindromic-substring/]
+> Day30:
+* [https://leetcode.com/problems/palindromic-substrings/]
+* [https://www.geeksforgeeks.org/problems/next-permutation5226/1]
