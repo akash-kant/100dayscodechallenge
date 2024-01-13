@@ -66,3 +66,6 @@ Participating in the 51DaysOfCoding Challenge allowed me to maintain small yet e
 > Day31:
 * [https://www.geeksforgeeks.org/problems/count-palindromic-subsequences/1]
 * [https://www.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1]
+> Day32:
+* [https://www.geeksforgeeks.org/problems/wildcard-string-matching1126/1]
+* [https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527/1]
