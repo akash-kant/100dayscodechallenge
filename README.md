@@ -69,3 +69,6 @@ Participating in the 51DaysOfCoding Challenge allowed me to maintain small yet e
 > Day32:
 * [https://www.geeksforgeeks.org/problems/wildcard-string-matching1126/1]
 * [https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527/1]
+> Day33:
+* [https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/]
+* [https://www.geeksforgeeks.org/problems/transform-string5648/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article]
