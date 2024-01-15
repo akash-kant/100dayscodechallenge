@@ -72,3 +72,6 @@ Participating in the 51DaysOfCoding Challenge allowed me to maintain small yet e
 > Day33:
 * [https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/]
 * [https://www.geeksforgeeks.org/problems/transform-string5648/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article]
+> Day34:
+* [https://leetcode.com/problems/minimum-window-substring/]
+* [https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/]
