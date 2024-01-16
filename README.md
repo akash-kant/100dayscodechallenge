@@ -75,3 +75,6 @@ Participating in the 51DaysOfCoding Challenge allowed me to maintain small yet e
 > Day34:
 * [https://leetcode.com/problems/minimum-window-substring/]
 * [https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/]
+> Day35:
+* [https://www.geeksforgeeks.org/problems/word-wrap1646/1]
+* [https://www.geeksforgeeks.org/problems/print-diagonally4331/1]
