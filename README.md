@@ -78,3 +78,6 @@ Participating in the 51DaysOfCoding Challenge allowed me to maintain small yet e
 > Day35:
 * [https://www.geeksforgeeks.org/problems/word-wrap1646/1]
 * [https://www.geeksforgeeks.org/problems/print-diagonally4331/1]
+> Day36:
+* [https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1]
+* [https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1]
