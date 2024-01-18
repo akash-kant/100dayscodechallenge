@@ -83,3 +83,4 @@ Participating in the 51DaysOfCoding Challenge allowed me to maintain small yet e
 * [https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1]
 > Day37:
 * [https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1]
+* [https://www.geeksforgeeks.org/problems/reverse-array-in-groups0255/1]
