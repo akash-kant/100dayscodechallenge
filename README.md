@@ -84,3 +84,6 @@ Participating in the 51DaysOfCoding Challenge allowed me to maintain small yet e
 > Day37:
 * [https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1]
 * [https://www.geeksforgeeks.org/problems/reverse-array-in-groups0255/1]
+> Day38:
+* [https://www.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1]
+* [https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1]
