@@ -89,4 +89,5 @@ Participating in the 50DaysOfCoding Challenge allowed me to maintain small yet e
 * [https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1]
 > Day39:
 * [https://www.geeksforgeeks.org/problems/distribute-candies-in-a-binary-tree/1]
-* [
+* [https://www.geeksforgeeks.org/problems/peak-element/1]
+* 
