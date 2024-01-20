@@ -91,4 +91,6 @@ Participating in the 50DaysOfCoding Challenge allowed me to maintain small yet e
 * [https://www.geeksforgeeks.org/problems/distribute-candies-in-a-binary-tree/1]
 * [https://www.geeksforgeeks.org/problems/peak-element/1]
 * [https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1]
-* 
+* [https://www.geeksforgeeks.org/problems/reverse-a-string/1]
+* [https://www.geeksforgeeks.org/problems/sort-the-array0055/1]
+  
