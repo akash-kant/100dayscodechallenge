@@ -93,4 +93,8 @@ Participating in the 50DaysOfCoding Challenge allowed me to maintain small yet e
 * [https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1]
 * [https://www.geeksforgeeks.org/problems/reverse-a-string/1]
 * [https://www.geeksforgeeks.org/problems/sort-the-array0055/1]
-  
+> Day40:
+* [https://www.geeksforgeeks.org/problems/vertex-cover/1]
+* [https://www.geeksforgeeks.org/problems/find-the-frequency/1]
+* [https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1]
+* [https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1]
