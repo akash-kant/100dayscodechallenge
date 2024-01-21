@@ -6,19 +6,22 @@ class Solution{
     public static int kthSmallest(int[] arr, int l, int r, int k) 
     { 
         //Your code here
-        PriorityQueue<Integer> max_pq=new PriorityQueue<>(Collections.reverseOrder());
-        for(int i=l;i<k;i++)
-        {
-            max_pq.add(arr[i]);
+        int n= arr.length;
+        PriorityQueue<Integer> queue = new PriorityQueue<>(Collections.reverseOrder());
+        for (int i=0;i<k;i++){
+            queue.add(arr[i]);
         }
-        for(int j=k;j<=r;j++)
-        {
-            if(arr[j]<max_pq.peek())
-            {
-                max_pq.poll();
-                max_pq.add(arr[j]);
+
+        for (int i=k;i<n;i++){
+            if (queue.peek()>arr[i]){
+               
+              
+                  queue.add(arr[i]);
+                    queue.poll();
+               
             }
         }
-        return max_pq.peek();
+
+        return queue.peek();
     } 
 }
