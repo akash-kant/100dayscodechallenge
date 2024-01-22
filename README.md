@@ -98,3 +98,9 @@ Participating in the 50DaysOfCoding Challenge allowed me to maintain small yet e
 * [https://www.geeksforgeeks.org/problems/find-the-frequency/1]
 * [https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1]
 * [https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1]
+> Day41:
+* [https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1]
+* [https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1]
+* [https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1]
+* [https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1]
+* [https://www.geeksforgeeks.org/problems/paths-from-root-with-a-specified-sum/1]
