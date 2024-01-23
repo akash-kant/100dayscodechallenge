@@ -104,3 +104,9 @@ Participating in the 50DaysOfCoding Challenge allowed me to maintain small yet e
 * [https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1]
 * [https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1]
 * [https://www.geeksforgeeks.org/problems/paths-from-root-with-a-specified-sum/1]
+> Day42:
+* [https://www.geeksforgeeks.org/problems/course-schedule/1]
+* [https://www.geeksforgeeks.org/problems/first-repeating-element4018/1]
+* [https://www.geeksforgeeks.org/problems/common-elements1132/1]
+* [https://www.geeksforgeeks.org/problems/quick-sort/1]
+* [https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1]
