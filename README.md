@@ -110,3 +110,9 @@ Participating in the 50DaysOfCoding Challenge allowed me to maintain small yet e
 * [https://www.geeksforgeeks.org/problems/common-elements1132/1]
 * [https://www.geeksforgeeks.org/problems/quick-sort/1]
 * [https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1]
+> Day43:
+* [https://geeksforgeeks.org/problems/non-repeating-element3958/1]
+* [https://www.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1]
+* [https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1]
+* [https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1]
+* [https://www.geeksforgeeks.org/problems/is-it-a-tree/1]
