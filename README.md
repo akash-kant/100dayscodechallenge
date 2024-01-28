@@ -116,3 +116,15 @@ Participating in the 50DaysOfCoding Challenge allowed me to maintain small yet e
 * [https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1]
 * [https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1]
 * [https://www.geeksforgeeks.org/problems/is-it-a-tree/1]
+> Day44:
+* [https://www.geeksforgeeks.org/problems/shortest-prime-path--141631/1]
+> Day45:
+* [https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1]
+> Day46:
+* [https://www.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1]
+> Day47:
+* [https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1]
+* [https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1#]
+* [https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1]
+* [https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1]
+* [https://www.geeksforgeeks.org/problems/geekina-hate-1s/1]
