@@ -128,3 +128,7 @@ Participating in the 50DaysOfCoding Challenge allowed me to maintain small yet e
 * [https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1]
 * [https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1]
 * [https://www.geeksforgeeks.org/problems/geekina-hate-1s/1]
+> Day48:
+* [https://www.geeksforgeeks.org/problems/count-digit-groupings-of-a-number1520/1]
+* [https://www.geeksforgeeks.org/problems/max-sum-in-the-configuration/1]
+* [https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1]
