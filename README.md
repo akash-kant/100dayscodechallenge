@@ -132,3 +132,13 @@ Participating in the 50DaysOfCoding Challenge allowed me to maintain small yet e
 * [https://www.geeksforgeeks.org/problems/count-digit-groupings-of-a-number1520/1]
 * [https://www.geeksforgeeks.org/problems/max-sum-in-the-configuration/1]
 * [https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1]
+> Day49:
+* [https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1#]
+* [https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1#]
+* [https://www.geeksforgeeks.org/problems/lcs-of-three-strings0028/1]
+> Day50:
+* [https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1]
+* [https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1]
+* [https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1]
+* [https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1]
+* [https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1]
