@@ -1,15 +1,17 @@
-# 50dayscodechallenge
+# 100dayscodechallenge = 11days to 21days to 50days to 100days continuation...
 # Overview
-This repository documents my journey through the 50DaysOfCoding Challenge. I am continuing my 21days to 50dayscoding challenge which i updated from 3rd of January 2024 as part of the #DrGViswanathan initiative by VIT Bhopal University, this initiative allows us to share our small as well as greater milestones uniquely.
+This repository documents my journey through the 100DaysOfCoding Challenge. I am continuing my 21days to 50dayscoding to 100dayscoding challenge as 50daysofcoding which i updated from 3rd of January 2024 as part of the #DrGViswanathan initiative by VIT Bhopal University, is completed on 31st january 2024. Now I am continuing the challenge as 100daysofcoding challenge on 1st February 2024, this initiative allows us to share our small as well as greater milestones uniquely.
 # level-up
-During this challenge, I committed to solving at least two coding problem each day for next 50days as it is the continuation of 21days challenge.So, from the 22nd day I am updating 1 code daily to atleast 2 code daily. on Platforms like Geeks for Geeks and LeetCode, fostering a consistent coding routine. 
+During this challenge, I committed to solving at least two coding problem each day for next 100days as it is the continuation of 50days challenge.So, from the 51st day I am updating the challenge, on Platforms like Geeks for Geeks and LeetCode, fostering a consistent coding routine. 
 # Structure:
 Each day's solution is organized in separate files, each file named after the problem.
 The first folder is my 21dayscodechallengepart in which 21days code is present.
+After 21 days each folder contains daily questions.
 The code is written in Java.
 Clear and concise comments accompany the code for better understanding.
-# Why 50DaysOfCoding?
-Participating in the 50DaysOfCoding Challenge allowed me to maintain small yet effective coding streaks, establishing a consistent routine. This practice not only enhanced my problem-solving skills but also prepared me for technical interviews during placement initiatives.
+
+# Why 100DaysOfCoding?
+Participating in the 100DaysOfCoding Challenge allowed me to maintain small yet effective coding streaks, establishing a consistent routine. This practice not only enhanced my problem-solving skills but also prepared me for technical interviews during placement initiatives.
 
 # 21 days folder links
 
@@ -142,3 +144,9 @@ Participating in the 50DaysOfCoding Challenge allowed me to maintain small yet e
 * [https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1]
 * [https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1]
 * [https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1]
+
+# Another 50 days links
+> Day51:
+* [https://www.geeksforgeeks.org/problems/pangram-checking-1587115620/1]
+* [https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1]
+* [https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1]
